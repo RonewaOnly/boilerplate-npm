@@ -13,7 +13,7 @@
 	},
 	"author": "Ronewa Maselesele",
 	"description": "This is a boilerplate project for the freeCodeCamp back end development projects that is focusing on the npm (package.json)",
-	"keywords": [ "nope", "npm", "package" ]
+	"keywords": [ "nope", "npm", "package","freecodecamp" ]
 
 
 }
