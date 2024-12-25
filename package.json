@@ -11,5 +11,7 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "Ronewa Maselesele"
+	"author": "Ronewa Maselesele",
+	"description": "This is a boilerplate project for the freeCodeCamp back end development projects that is focusing on the npm (package.json)"
+
 }
